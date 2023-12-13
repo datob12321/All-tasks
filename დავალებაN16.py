@@ -97,5 +97,3 @@ for i, obj in enumerate(Music.objects):
     variable_name = f'music{i+1}'
     music_objects[variable_name] = obj
 
-
-

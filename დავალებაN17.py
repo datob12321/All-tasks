@@ -2,6 +2,7 @@ from time import time
 
 
 # 1
+
 class Car:
 
     def __new__(cls, *args, **kwargs):
